@@ -8,3 +8,5 @@ Open .nbt structure files to easily change which block is used in the structure.
 - Your files will be exported to a new folder with the same name as the original one + "_modified"
 
 You can use CTRL + D to change every occurence of a word.
+
+![Screenshot of the program](https://github.com/roipasteque/Minecraft-NBTPaletteEditor/blob/main/screenshots/nbteditor_screenshot.png)
